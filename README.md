@@ -1,6 +1,6 @@
 # Bachelor of Engineering, _Information Engineering_ - "Babeș-Bolyai" University
 
-This repository contains all of my learning and coursework during my Bachelor's of Engineering in **Information Engineering** over the course of 4 years, structured by semesters and types of courses. The full courselist can be found at the bottom of this page.
+This repository contains all of my learning and coursework during my Bachelor's of Engineering in **Information Engineering** over the course of 4 years, structured by semesters and types of courses. **The full courselist can be found at the bottom of this page.**
 
 ## Repository Structure
 
