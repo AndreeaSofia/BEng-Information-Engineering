@@ -33,16 +33,15 @@ Each course contains the following subfolders:
 
 ## Semesters
 
-- [Semester 1](./Semester1)
-- [Semester 2](./Semester2)
+- [Semester 1](./Semester%201/README.md)
+- [Semester 2](./Semester%202/README.md)
 
 Each semester folder contains the relevant courses categorized by type.
 
-## Courses
+## Full courselist
 
 Each course has its own README file linking to its subfolders:
 
-- [Course 1](./Semester1/Mandatory/Course1)
-- [Course 2](./Semester1/Mandatory/Course2)
+- [Calculus 1 - Calculus on R](./Semester%201/Mandatory-Core/Calculus%201%20-%20Calculus%20on%20R)
 
 Feel free to explore and make use of the resources available. If you have any questions or suggestions, please open an issue or contact me directly.
