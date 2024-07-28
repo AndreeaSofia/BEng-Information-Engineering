@@ -84,6 +84,7 @@ Each semester folder contains the relevant courses categorized by type. For simp
   - [Software Projects Management](./Semester%207/Mandatory-Core/Software%20Projects%20Management).
 - [Semester 8](./Semester%208/README.md):
   - [Data Transmissions](./Semester%208/Mandatory-Core/Data%20Transmissions);
+  - [Elaboration of Bachelor’s Thesis](./Semester%208/Mandatory-Core/Elaboration%20of%20Bachelor%27s%20Thesis);
   - [Optimization Techniques](./Semester%208/Mandatory-Core/Optimization%20Techniques).
 
 Feel free to explore and make use of the available resources. If you have any questions or suggestions, please open an issue or contact me directly.
