@@ -78,7 +78,7 @@ This README provides a detailed outline of the topics covered in the **Computer 
 - Revision of most important topics covered by the course.
 
 **Week 14:**
-- Evaluation.
+- Final evaluation.
 
 ## How to Navigate This Course
 
