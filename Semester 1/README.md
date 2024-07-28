@@ -1,6 +1,6 @@
 # Semester 1
 
-This README provides an overview of the courses I took in Semester 1 of my BEng in _Information Engineering_. Below is a list of all courses for this semester, categorized as _Mandatory/Core_ and _Optional_. Note that there were _**no** Optional/Core_ courses available for this semester.
+This README provides an overview of the courses I took in Semester 1 of my BEng in _Information Engineering_. Below is a categorized list of the _Mandatory/Core_ and _Optional_ courses for this semester. Note that there were _**no** Optional/Core_ courses available.
 
 ## Courses
 
