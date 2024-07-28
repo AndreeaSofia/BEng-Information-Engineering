@@ -62,6 +62,28 @@ Each semester folder contains the relevant courses categorized by type. For simp
   - [Operating Systems](./Semester%204/Mandatory-Core/Operating%20Systems);
   - [Software Systems and Algorithm Design](./Semester%204/Mandatory-Core/Software%20Systems%20and%20Algorithm%20Design);
   - [Web Programming](./Semester%204/Mandatory-Core/Web%20Programming).
-- 
+- [Semester 5](./Semester%205/README.md):
+  - [Computer Networks](./Semester%205/Mandatory-Core/Computer%20Networks);
+  - [Design with Microprocessors](./Semester%205/Mandatory-Core/Design%20with%20Microprocessors);
+  - [Development of Applications for Mobile Platforms](./Semester%205/Mandatory-Core/Development%20of%20Applications%20for%20Mobile%20Platforms);
+  - [Functional and Logic Programming](./Semester%205/Mandatory-Core/Functional%20and%20Logic%20Programming);
+  - [Fundamentals of Digital Economy](./Semester%205/Optional/Fundamentals%20of%20Digital%20Economy);
+  - [Signals and Systems](./Semester%205/Mandatory-Core/Signals%20and%20Systems);
+  - [Writing Mathematical Documents in LaTeX](./Semester%205/Optional/Writing%20Mathematical%20Documents%20in%20LaTeX).
+- [Semester 6](./Semester%206/README.md):
+  - [Artificial Intelligence](./Semester%206/Mandatory-Core/Artificial%20Intelligence);
+  - [Digital Signal Processing](./Semester%206/Mandatory-Core/Digital%20Signal%20Processing);
+  - [Introduction in Innovation Management](./Semester%206/Optional/Introduction%20in%20Innovation%20Management);
+  - [Software Engineering](./Semester%206/Mandatory-Core/Software%20Engineering);
+  - [Virtual Instrumentation](./Semester%206/Mandatory-Core/Virtual%20Instrumentation).
+- [Semester 7](./Semester%207/README.md):
+  - [Electronic Measurements, Sensors and Transducers](./Semester%207/Mandatory-Core/Electronic%20Measurements%2C%20Sensors%20and%20Transducers);
+  - [Formal Languages and Automata](./Semester%207/Mandatory-Core/Formal%20Languages%20and%20Automata);
+  - [Human-Computer Interfaces](./Semester%207/Mandatory-Core/Human-Computer%20Interfaces);
+  - [Parallel and Distributed Algorithms](./Semester%207/Mandatory-Core/Parallel%20and%20Distributed%20Algorithms);
+  - [Software Projects Management](./Semester%207/Mandatory-Core/Software%20Projects%20Management).
+- [Semester 8](./Semester%208/README.md):
+  - [Data Transmissions](./Semester%208/Mandatory-Core/Data%20Transmissions);
+  - [Optimization Techniques](./Semester%208/Mandatory-Core/Optimization%20Techniques).
 
 Feel free to explore and make use of the available resources. If you have any questions or suggestions, please open an issue or contact me directly.
