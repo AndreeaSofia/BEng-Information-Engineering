@@ -21,7 +21,7 @@ Each course contains the following subfolders:
 1. **Courses**: Course notes and suggested bibliography.
 2. **Seminaries**: Seminary work and suggested bibliography.
 3. **Laboratories**: Lab work and related materials.
-4. **Exams**: Exam papers, preparation materials/examples, and grade specifications (including a breakdown of weights for different parts of the final grade, such as course participation, oral exams, seminar activities, laboratory work, projects, etc.).
+4. **ExamPrep**: Exam papers, preparation materials/examples, and grade specifications (including a breakdown of weights for different parts of the final grade, such as course participation, oral exams, seminar activities, laboratory work, projects, etc.).
 5. **ExtraResources**: Additional exercises and work I did for certain chapters, along with personal tips and tricks, including tools, references, or books that helped me improve my understanding and performance in the subject. These are my own experiences and may not necessarily be useful for others, and were not required or endorsed by the course instructors.
 
 ## Full Courselist by Semester
