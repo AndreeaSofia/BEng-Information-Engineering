@@ -64,7 +64,7 @@ coordinate system.
 
 **Week 11:**
 - Energy band structures in solids.
-- Conductors,semiconductors, insulators.
+- Conductors, semiconductors, insulators.
 - Intrinsic semiconductors; extrinsic semiconductors.
 
 **Week 12:**
