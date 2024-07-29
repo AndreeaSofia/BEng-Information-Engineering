@@ -1,7 +1,7 @@
 # Course Overview
 
 - This README provides a detailed outline of the topics covered in the **Calculus 2 - Differential and Integral Calculus in R^n** course during the second semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
-- The second semester of this course covers key topics in **SolidWorks**, including **Interface Navigation**, **Sketching** and **Reference Geometry**, **Part Modeling Techniques** (extrusion, revolution, sweep, loft, patterns), **Assembly Modeling** (constraints, configurations, exploded views), and **Technical Drawings** (standardized views, sectional views, dimensioning, annotations).
+- The second semester of this course covers key topics in how to utilize **SolidWorks**, including **Interface Navigation**, **Sketching** and **Reference Geometry**, **Part Modeling Techniques** (extrusion, revolution, sweep, loft, patterns), **Assembly Modeling** (constraints, configurations, exploded views), and **Technical Drawings** (standardized views, sectional views, dimensioning, annotations).
 
 ## Weekly Topics
 
