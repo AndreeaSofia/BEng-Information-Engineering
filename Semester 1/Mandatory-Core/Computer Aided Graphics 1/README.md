@@ -1,23 +1,24 @@
 # Course Overview
 
-This README provides a detailed outline of the topics covered in the **Computer Aided Graphics 1** course during the first semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
+- This README provides a detailed outline of the topics covered in the **Computer Aided Graphics 1** course during the first semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
+- The course covers key topics in how to use AutoCAD, including **Interface Navigation and Basic Drawing** (AutoCAD environment, basic objects, measurements), **Drawing Organization and Modification** (layers, object properties, modifying objects), **Advanced Drawing Techniques** (layouts, viewports, annotation, dimensioning, hatching), and **3D Modelling** (introduction to 3D, creating solids and composite solids).
 
 ## Weekly Topics
 
 **Week 1:** 
-- AutoCAD environment interface: navigating AutoCAD environment, prototype files.
+- AutoCAD environment interface: navigating AutoCAD environment; prototype files.
 - Applications 2D-1 (Guide bushing) and 2D-2 (Chamfered bushing).
 
 **Week 2:**
-- Drawing organization and query commands: using layers, changing object properties, taking properties from an existing object, using the property palette and line types.
+- Drawing organization and query commands: using layers; changing object properties; taking properties from an existing object; using the property palette and line types.
 - Applications 2D-4 (Reduction) and 2D-5 (Grooved bushing).
 
 **Week 3:**
-- Creating basic drawings: entering data, creating basic objects, using Object Snap, Object Snap Tracking, Polar Tracking, Polar Snap. Using and setting measurement units.
+- Creating basic drawings: entering data; creating basic objects; using Object Snap, Object Snap Tracking, Polar Tracking, and Polar Snap; using and setting measurement units.
 - Applications 2D-6 (Plate for indexing mechanism) and 2D-7 (Nozzle).
 
 **Week 4:**
-- Manipulating objects: selecting objects from the drawing, changing the position of an object - Move, creating new objects based on existing ones, changing the angle of an object's position, creating a mirror image of objects, matrix multiplication of objects - Array, changing the size of an object - Scale.
+- Manipulating objects: selecting objects from the drawing; changing the position of an object - Move; creating new objects based on existing ones; changing the angle of an object's position; creating a mirror image of objects; matrix multiplication of objects - Array; changing the size of an object - Scale.
 - Applications 2D-8 (Hemispherical head) and 2D-9 (Bolt).
 
 **Week 5:**
@@ -29,7 +30,7 @@ This README provides a detailed outline of the topics covered in the **Computer 
 - Applications 2D-12 (Spacer) and 2D-13 (Gasket).
 
 **Week 7:**
-- Drawing annotation: creating multi-line text, single-line text, using text styles, editing text.
+- Drawing annotation: creating multi-line text; single-line text; using text styles; editing text.
 - Applications 2D-14 (Arm joint) and 2D-15 (Profiled plate).
 
 **Week 8:**
@@ -37,7 +38,7 @@ This README provides a detailed outline of the topics covered in the **Computer 
 - Applications 2D-16 (Tubing) and 2D-17 (Guide bracket).
 
 **Week 9:**
-- Hatch: hashing objects, editing hatch objects.
+- Hatch: hashing objects; editing hatch objects.
 - Applications 2D-18 (Hook) and 2D-19 (Planar cam).
 
 **Week 10:**
