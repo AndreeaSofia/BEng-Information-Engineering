@@ -1,6 +1,7 @@
 # Course Overview
 
-This README provides a detailed outline of the topics covered in the **Calculus 1 - Calculus on R** course during the first semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
+- This README provides a detailed outline of the topics covered in the **Calculus 1 - Calculus on R** course during the first semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
+- The course covers key topics from **Real Analysis** (real numbers, sequences, series, limits, continuous functions), **Differential Calculus** (differentiation, mean value theorems, higher order derivatives, Taylor's theorem), and **Integral Calculus** (Riemann integral, primitives, improper integrals, Riemann-Stieltjes integral).
 
 ## Weekly Topics
 
@@ -13,7 +14,7 @@ This README provides a detailed outline of the topics covered in the **Calculus 
 
 **Week 3:**
 - Fundamental sequences.
-- Series of real numbers (convergence/divergence criteria for series: Cauchy’s general criterion, Cauchy’s condensation criterion, comparison criteria, the root criterion, Kummer’s, D’Alembert’s and Raabe-Duhamel’s criteria).
+- Series of real numbers (convergence/divergence criteria for series: Cauchy’s general criterion; Cauchy’s condensation criterion; comparison criteria; the root criterion; Kummer’s, D’Alembert’s and Raabe-Duhamel’s criteria).
 
 **Week 4:**
 - Series of real numbers; comparison criteria.
