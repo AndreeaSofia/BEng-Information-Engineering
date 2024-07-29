@@ -12,51 +12,51 @@
 **Week 2:**
 - Sketches. Blocks. Relations. Settings.
 - Reference geometries. 3D sketches.
-- Creating of the 3D model and drawing for the “Flange” part.
+- Creating the 3D model and drawing for the “Flange” part.
 
 **Week 3:**
 - Parts. Generation of entities by extrusion.
-- Creating of the 3D model and drawing for the “Fork” part.
+- Creating the 3D model and drawing for the “Fork” part.
 
 **Week 4:**
 - Parts. Generating entities through revolution and sweep.
-- Creating of the 3D model and drawing for the “Jaw” part.
+- Creating the 3D model and drawing for the “Jaw” part.
 
 **Week 5:**
 - Parts. Generation of entities through loft type.
-- Creating of the 3D model and drawing for the "Inclined guide".
+- Creating the 3D model and drawing for the "Inclined guide".
 
 **Week 6:**
 - Parts. Pattern and fillet entities.
-- Creating of the 3D model and drawing for the "Handle".
+- Creating the 3D model and drawing for the "Handle".
 
 **Week 7:**
 - Parts. Rectangular and circular patterns of entities. Mirroring entities.
-- Creating of the 3D model and drawing for the "Housing".
+- Creating the 3D model and drawing for the "Housing".
 
 **Week 8:**
 - Assembly. Constraints.
-- Creating of the 3D model and drawing for the "Vise Body".
+- Creating the 3D model and drawing for the "Vise Body".
 
 **Week 9:**
 - Assembly. Configurations. Exploded assembly.
-- Creating of the 3D model and drawing for the "Handwheel".
+- Creating the 3D model and drawing for the "Handwheel".
 
 **Week 10:**
 - Drawings. Creating standardized views.
-- Creating of the 3D model and determination of inertial properties at the "Pelton turbine rotor blade".
+- Creating the 3D model and determination of inertial properties at the "Pelton turbine rotor blade".
 
 **Week 11:**
 - Drawings. Generating sectional views. Generating details.
-- Creating of the "Winch" assembly.
+- Creating the "Winch" assembly.
 
 **Week 12:**
 - Drawings. Dimensioning and annotation of drawings.
-- Creating of the "Vise" assembly.
+- Creating the "Vise" assembly.
 
 **Week 13:**
 - Drawings. Table of content and positioning of parts.
-- Creating of the "Pelton turbine rotor" assembly.
+- Creating the "Pelton turbine rotor" assembly.
 
 **Week 14:**
 - Revision.
