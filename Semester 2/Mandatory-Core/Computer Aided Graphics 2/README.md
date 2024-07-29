@@ -12,7 +12,7 @@
 **Week 2:**
 - Sketches. Blocks. Relations. Settings.
 - Reference geometries. 3D sketches.
-- 
+- Creating of the 3D model and drawing for the “Flange” part.
 
 **Week 3:**
 - Parts. Generation of entities by extrusion.
