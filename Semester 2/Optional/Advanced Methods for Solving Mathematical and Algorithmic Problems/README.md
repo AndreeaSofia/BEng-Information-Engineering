@@ -1,6 +1,6 @@
 # Course Overview
 
-- This README provides a detailed outline of the topics covered in the **Computer Aided Graphics 2Advanced Methods for Solving Mathematical and Algorithmic Problems** course during the second semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
+- This README provides a detailed outline of the topics covered in the **Advanced Methods for Solving Mathematical and Algorithmic Problems** course during the second semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
 - This course covers key topics in **Algorithm Design and Analysis**, including **Searching and Sorting** algorithms, relevant **Data Structures** (binary indexed tree, interval tree, trie, finite automata, AVL trees, disjoint sets), **Graph Algorithms** (BFS, DFS, Dijkstra, Floyd-Warshall, Prim, Kruskal, topological sorting, bridges, strongly-connected components), **Dynamic Programming** (longest common subsequence, edit distance, Needleman-Wunsch), **Mathematical Methods** applied in computer science (number theory, combinatorics, approximation methods), and **Geometry and Network Algorithms** (convex hull, Ford-Fulkerson, bipartite graphs, LCA and RMQ, Hopcroft-Karp).
 
 ## Weekly Topics
