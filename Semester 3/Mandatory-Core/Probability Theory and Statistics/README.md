@@ -88,7 +88,7 @@
 
 **Week 13:**
 - The T (Student)-test for the mean.
-- The Chisquare-test for the variance.
+- The Chi-square-test for the variance.
 - The F-test for the ratio of variances.
 - Tests for the difference of means. Examples.
 - Robust tests.
