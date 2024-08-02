@@ -1,7 +1,7 @@
 # Course Overview
 
 - This README provides a detailed outline of the topics covered in the **Databases 1** course during the third semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
-- The first semester of this course covers key topics in **Database Systems**, including an introduction to databases, the **Relational Data Model**, **SQL Queries**, **Functional Dependencies**, **Normalization** (normal forms), **Relational Algebra**, **Physical Structure** of databases, **Indexing Methods** (indexes, trees, hash files), **Overflow Concept Analysis**, **Conceptual Modeling**, **Advanced Database Concepts** (object-oriented databases, data streams), and **Transaction Management** (transactions, concurrency control).
+- The first semester of this course covers key topics concerning **Database Systems**, including an introduction to databases, the **Relational Data Model**, **SQL Queries**, **Functional Dependencies**, **Normalization** (normal forms), **Relational Algebra**, **Physical Structure** of databases, **Indexing Methods** (indexes, trees, hash files), **Overflow Concept Analysis**, **Conceptual Modeling**, **Advanced Database Concepts** (object-oriented databases, data streams), and **Transaction Management** (transactions, concurrency control).
 
 ## Weekly Topics
 
