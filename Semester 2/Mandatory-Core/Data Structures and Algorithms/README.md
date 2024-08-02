@@ -1,7 +1,7 @@
 # Course Overview
 
 - This README provides a detailed outline of the topics covered in the **Data Structures and Algorithms** course during the second semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
-- This course, based on a C++ curriculum, covers key topics related to **Data Structures and Algorithms**, including **Abstract Data Types** (arrays, iterators, linked lists, sets, maps, matrices, stacks, queues, priority queues), **Algorithm Analysis** (complexities, pseudocode conventions), **Hash Tables** (direct address tables, collision resolution methods), **Trees** (binary trees, tree traversals), **Binary Heaps** (HeapSort), and **Applications** of studied data structures.
+- This course, based on a **C++** curriculum, covers key topics related to **Data Structures and Algorithms**, including **Abstract Data Types** (arrays, iterators, linked lists, sets, maps, matrices, stacks, queues, priority queues), **Algorithm Analysis** (complexities, pseudocode conventions), **Hash Tables** (direct address tables, collision resolution methods), **Trees** (binary trees, tree traversals), **Binary Heaps** (HeapSort), and **Applications** of studied data structures.
 
 ## Weekly Topics
 
