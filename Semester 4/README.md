@@ -9,7 +9,7 @@ This README provides an overview of the courses I took in Semester 4 of my BEng 
   - [Digital Electronics](./Mandatory-Core/Digital%20Electronics);
   - [English Language 2 – Specialized Language Practical Course](./Mandatory-Core/English%20Language%202%20-%20Specialized%20Language%20Practical%20Course);
   - [Operating Systems](./Mandatory-Core/Operating%20Systems);
-  - [Software Systems and Algorithms Design](./Mandatory-Core/Software%20Systems%20and%20Algorithm%20Design);
+  - [Software Systems and Algorithms Design](./Mandatory-Core/Software%20Systems%20and%20Algorithms%20Design);
   - [Web Programming](./Mandatory-Core/Web%20Programming).
 
 - **Optional**:
