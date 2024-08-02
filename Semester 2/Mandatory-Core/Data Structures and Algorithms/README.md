@@ -1,13 +1,13 @@
 # Course Overview
 
 - This README provides a detailed outline of the topics covered in the **Data Structures and Algorithms** course during the second semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
-- This course, based on a **C++** curriculum, covers key topics related to **Data Structures and Algorithms**, including **Abstract Data Types** (arrays, iterators, linked lists, sets, maps, matrices, stacks, queues, priority queues), **Algorithm Analysis** (complexities, pseudocode conventions), **Hash Tables** (direct address tables, collision resolution methods), **Trees** (binary trees, tree traversals), **Binary Heaps** (HeapSort), and **Applications** of studied data structures.
+- This course, based on a **C++** curriculum, covers key topics related to **Data Structures and Algorithms**, including **Data Abstraction and Encapsulation**, **Array and Iterator Implementations**, **Linked Lists** (singly, doubly, and circular), **Abstract Data Types** (such as Sets, Maps, Matrices, Stacks, Queues, Priority Queues, and Deques), **Hash Tables** (including direct address tables, separate chaining, coalesced chaining, and open addressing), **Trees** (including Binary Trees, Binary Search Trees, and AVL Trees), **Binary Heap**, **Balanced Binary Search Trees**, and **Applications** and data structure libraries in various programming languages (Python, C++, Java, C#).
 
 ## Weekly Topics
 
 **Week 1:** 
-- **Data structures. Abstract data types. Algorithm analysis**
-  - Abstract data types and data structures.
+- **Introduction. Data structures. Abstract data types**
+  - Data abstractization and encapsulation.
   - Pseudocode conventions.
   - Complexities.
 
@@ -18,69 +18,75 @@
   - Interface of an iterator.
 
 **Week 3:**
+- **Abstract data types I**
+  - ADT Set: description, domain, interface and possible representations.
+  - ADT Map: description, domain, interface and possible representations.
+  - ADT Matrix: description, domain, interface and possible representations.
+  - ADT MultiMap: description, domain, interface and possible representations.
+
+**Week 4:**
+- **Abstract data types II**
+  - ADT Stack: description, domain, interface and possible representations.
+  - ADT Queue: description, domain, interface and possible representations.
+  - ADT PriorityQueue: description, domain, interface and possible representations.
+  - ADT Deque: description, domain, interface and possible representations.
+  - ADT List: description, domain, interface and possible representations.
+
+**Week 5:**
 - **Linked lists I**
   - Singly linked list: representation and operations.
   - Doubly linked list: representation and operations.
   - Iterator for linked lists.
 
-**Week 4:**
-- **Abstract data types I**
-  - ADT Set: description, domain, interface and possible representations.
-  - ADT Map: description, domain, interface and possible representations.
-  - ADT Matrix: description, domain, interface and possible representations.
-
-**Week 5:**
+**Week 6:**
 - **Linked lists II**
   - Sorted linked lists: representation and operations.
+  - Circular linked lists: representation and operations.
   - Linked lists on arrays: representation and operations.
 
-**Week 6:**
-- **Abstract data types II**
-  - ADT List: description, domain, interface and possible representations.
-  - ADT Stack: description, domain, interface and possible representations.
-  - ADT Queue: description, domain, interface and possible representations.
-
 **Week 7:**
-- **Hash table I**
+- **Binary heap**
+  - Representation, specific operations.
+  - HeapSort.
+
+**Week 8:**
+- **Hash tables I**
   - Direct address tables.
   - Hash tables: description, properties.
   - Collision resolution through separate chaining.
 
-**Week 8:**
-- **Hash table II**
+**Week 9:**
+- **Hash tables II**
   - Collision resolution through coalesced chaining.
   - Collision resolution through open addressing.
 
-**Week 9:**
-- **Trees. Binary trees I**
-  - Concepts related to trees.
-  - Applications of trees.
-  - Possible representations.
-  - Tree traversals.
-  - Description and properties of binary trees.
-  - Domain and interface of ADT Binary Tree.
-
 **Week 10:**
--  **Binary Trees II**
-  - Possible representations of ADT Binary Tree.
-  - Binary tree traversals: recursive/non-recursive algorithms.
+- **Hash tables III**
+  - Perfect hashing.
+  - Linked hash tables.
+  - Containers represented over hash tables.
 
 **Week 11:**
-- **Binary heap**
-  - Definition, representations, specific operations.
-  - HeapSort.
+- **Trees. Binary trees**
+  - Concepts related to trees.
+  - Applications of trees.
+  - Description & properties of binary trees.
+  - Domain and interface of ADT Binary Tree.
+  - Tree traversals: recursive/non-recursive algorithms.
 
 **Week 12:**
-- **ADT Priority Queue**
-  - Description, domain and interface.
-  - Possible representations.
-  - Implementation on heap.
+- **Binary search trees**
+  - Description, properties.
+  - Representation.
+  - Operations: recursive and non-recursive algorithms.
+  - Containers represented over binary search tables.
 
 **Week 13:**
-- Applications of the studied DS.
+- **Balanced binary search trees**
+  - AVL Trees.
 
 **Week 14:**
-- Revision & evaluation. 
+- Applications and data structure libraries in different programming languages (Python, C++, Java, C#). 
 
 ## How to Navigate This Course
 
