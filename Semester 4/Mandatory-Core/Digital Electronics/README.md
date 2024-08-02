@@ -27,7 +27,7 @@
 - **Sequential logic. Timer**
   - Counter circuits (asynchronous and synchronous counters).
   - Shift registers (serial/parallel data conversions and specialized counter circuits).
-  - Multi-vibrators and Timers (Astable, Monostable, Schmitt Trigger).
+  - Multivibrators and Timers (Astable, Monostable, Schmitt Trigger).
 
 **Weeks 11-14:**
 - **Real-world interfacing**
