@@ -55,12 +55,12 @@ Each semester folder contains the relevant courses categorized by type. For simp
   - [Probability Theory and Statistics](./Semester%203/Mandatory-Core/Probability%20Theory%20and%20Statistics);
   - [Programming Paradigms](./Semester%203/Mandatory-Core/Programming%20Paradigms).
 - [Semester 4](./Semester%204/README.md):
-  - [Algorithm Design](./Semester%204/Mandatory-Core/Algorithm%20Design);
   - [Databases 2](./Semester%204/Mandatory-Core/Databases%202);
   - [Digital Electronics](./Semester%204/Mandatory-Core/Digital%20Electronics);
   - [English Language 2 – Specialized Language Practical Course](./Semester%204/Mandatory-Core/English%20Language%202%20–%20Specialized%20Language%20Practical%20Course);
   - [German as a Communication Language in IT 2](./Semester%204/Optional/German%20as%20a%20Communication%20Language%20in%20IT%202);
   - [Operating Systems](./Semester%204/Mandatory-Core/Operating%20Systems);
+  - [Software Systems and Algorithms Design](./Semester%204/Mandatory-Core/Software%20Systems%20and%20Algorithm%20Design);
   - [Web Programming](./Semester%204/Mandatory-Core/Web%20Programming).
 - [Semester 5](./Semester%205/README.md):
   - [Computer Networks](./Semester%205/Mandatory-Core/Computer%20Networks);
