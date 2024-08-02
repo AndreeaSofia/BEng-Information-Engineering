@@ -49,10 +49,10 @@
 - **Operational amplifiers**
   - Overview.
   - Basic linear op-amp circuits:
-    a. Inverting, non-inverting, addition, subtraction.
-    b. AC amplifiers, inverting, and non-inverting.
-    c. Cascading; Ideal impedances.
-    d. I-V conv, V-I conv, difference amp, instrument amp.
+    - Inverting, non-inverting, addition, subtraction.
+    - AC amplifiers, inverting, and non-inverting.
+    - Cascading; Ideal impedances.
+    - I-V conv, V-I conv, difference amp, instrument amp.
   - Integrator, differentiator.
   - Lossy integrator.
   - Negative feedback.
