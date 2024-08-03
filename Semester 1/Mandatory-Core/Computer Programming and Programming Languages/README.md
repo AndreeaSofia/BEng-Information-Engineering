@@ -3,6 +3,17 @@
 - This README provides a detailed outline of the topics covered in the **Computer Programming and Programming Languages** course during the first semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
 - This course, based on a **Python** curriculum, covers key topics in **Software Development** (software development processes, procedural programming, modular programming, software design guidelines), **Object-Oriented Programming** (user-defined types, classes and objects, encapsulation, inheritance), **Program Testing and Inspection** (testing methods, automated testing, TDD), and **Algorithms and Problem-Solving** (recursion, search algorithms, sorting algorithms, problem-solving methods including backtracking, divide and conquer, greedy, and dynamic programming).
 
+## Languages. Frameworks. Software tools
+
+- This course required the use of the following software tools, languages, and/or frameworks:
+
+<p>
+  <img alt="Eclipse Badge" src="https://img.shields.io/badge/Eclipse-%232C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+  <img alt="PyDev Badge" src="https://img.shields.io/badge/PyDev-%2328A745?style=for-the-badge&logo=pydev&logoColor=white">
+  <img alt="Python Badge" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/MicrosoftTeams-%23626EAF?style=for-the-badge&logo=microsoftteams&logoColor=white">
+</p>
+
 ## Weekly Topics
 
 **Week 1:** 
