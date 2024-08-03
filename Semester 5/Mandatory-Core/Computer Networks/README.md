@@ -10,7 +10,16 @@
 <div align="center">
   
 <p>
+  <img alt="ARP Protocol Badge" src="https://img.shields.io/badge/ARP Protocol-%230071C5?style=for-the-badge&logo=arp&logoColor=white"> 
   <img alt="Cisco Packet Tracer Badge" src="https://img.shields.io/badge/Cisco Packet Tracer-%231BA0D7?style=for-the-badge&logo=ciscopackettracer&logoColor=white">
+  <img alt="DCHP Protocol Badge" src="https://img.shields.io/badge/DCHP Protocol-%23264A77?style=for-the-badge&logo=dchp&logoColor=white"> 
+  <img alt="DNS Protocol Badge" src="https://img.shields.io/badge/DNS Protocol-%230274B3?style=for-the-badge&logo=dns&logoColor=white"> 
+  <img alt="FTP Protocol Badge" src="https://img.shields.io/badge/FTP Protocol-%23003366?style=for-the-badge&logo=ftp&logoColor=white"> 
+  <img alt="HTTP Protocol Badge" src="https://img.shields.io/badge/HTTP Protocol-%23005A9C?style=for-the-badge&logo=http&logoColor=white"> 
+  <img alt="IMAP Protocol Badge" src="https://img.shields.io/badge/IMAP Protocol-%2366CC66?style=for-the-badge&logo=imap&logoColor=white"> 
+  <img alt="POP3 Protocol Badge" src="https://img.shields.io/badge/POP3 Protocol-%23336699?style=for-the-badge&logo=pop3&logoColor=white"> 
+  <img alt="RARP Protocol Badge" src="https://img.shields.io/badge/RARP Protocol-%230033A0?style=for-the-badge&logo=rarp&logoColor=white"> 
+  <img alt="SMTP Protocol Badge" src="https://img.shields.io/badge/SMTP Protocol-%236699CC?style=for-the-badge&logo=smtp&logoColor=white"> 
 </p>
   
 </div>
