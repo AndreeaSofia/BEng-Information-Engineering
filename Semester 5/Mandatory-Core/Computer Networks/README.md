@@ -3,6 +3,18 @@
 - This README provides a detailed outline of the topics covered in the **Computer Networks** course during the fifth semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
 - This course covers key topics concerning **Computer Networks**, including **Introduction to Computer Networks** (network examples, definitions), **Networking Protocols** (protocol concepts, protocol stacks, OSI and TCP/IP models), **Socket Programming** (TCP and UDP sockets, iterative and concurrent servers), **Network Topologies** (physical and data-link layers, network classes, and masks), **IP Addressing** (ARP, RARP, DHCP protocols), **Subnetting and Address Aggregation**, **Routing Protocols** (NAT, private and public IP addresses), **Network Security** (packet filtering, firewall issues), **Application Layer Protocols** (HTTP, FTP, DNS, SMTP, POP3, IMAP), **Web Client-Server Architectures**, **DNS and Email Systems**, and **Advanced Topics** (packet encapsulation at different TCP stack levels, VPN mechanisms and tunneling, VLANs).
 
+## Languages. Frameworks. Software tools
+
+- This course required the use of the following software tools, languages, and/or frameworks:
+
+<div align="center">
+  
+<p>
+  <img alt="Cisco Packet Tracer Badge" src="https://img.shields.io/badge/Cisco Packet Tracer-%231BA0D7?style=for-the-badge&logo=ciscopackettracer&logoColor=white">
+</p>
+  
+</div>
+
 ## Weekly Topics
 
 **Week 1:** 
