@@ -3,6 +3,19 @@
 - This README provides a detailed outline of the topics covered in the **Data Structures and Algorithms** course during the second semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
 - This course, based on a **C++** curriculum, covers key topics related to **Data Structures and Algorithms**, including **Data Abstraction and Encapsulation**, **Array and Iterator Implementations**, **Linked Lists** (singly, doubly, and circular), **Abstract Data Types** (such as Sets, Maps, Matrices, Stacks, Queues, Priority Queues, and Deques), **Hash Tables** (including direct address tables, separate chaining, coalesced chaining, and open addressing), **Trees** (including Binary Trees, Binary Search Trees, and AVL Trees), **Binary Heap**, **Balanced Binary Search Trees**, and **Applications** and data structure libraries in various programming languages (Python, C++, Java, C#).
 
+## Languages. Frameworks. Software tools
+
+- This course required the use of the following software tools, languages, and/or frameworks:
+
+<div align="center">
+  
+<p>
+<img alt="SolidWorks Badge" src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/MicrosoftTeams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+</p>
+  
+</div>
+
 ## Weekly Topics
 
 **Week 1:** 
