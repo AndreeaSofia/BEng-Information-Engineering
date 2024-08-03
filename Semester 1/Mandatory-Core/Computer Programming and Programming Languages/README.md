@@ -13,7 +13,7 @@
   <img alt="Eclipse Badge" src="https://img.shields.io/badge/Eclipse-%232C2255?style=for-the-badge&logo=eclipse&logoColor=white">
   <img alt="PyDev Badge" src="https://img.shields.io/badge/PyDev-%2328A745?style=for-the-badge&logo=pydev&logoColor=white">
   <img alt="Python Badge" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/MicrosoftTeams-%23626EAF?style=for-the-badge&logo=microsoftteams&logoColor=white">
+  <img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%23626EAF?style=for-the-badge&logo=microsoftteams&logoColor=white">
 </p>
   
 </div>
