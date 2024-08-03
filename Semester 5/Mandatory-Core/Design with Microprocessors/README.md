@@ -14,6 +14,7 @@
   <img alt="C++ Badge" src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img alt="Cube MX Badge" src="https://img.shields.io/badge/Cube MX-%2303234B?style=for-the-badge&logo=cubemx&logoColor=white">
   <img alt="CubeProgrammer Badge" src="https://img.shields.io/badge/CubeProgrammer-%230080FF?style=for-the-badge&logo=cubeprogrammer&logoColor=white">
+  <img alt="HAL Badge" src="https://img.shields.io/badge/HAL software subsystem-%23007ACC?style=for-the-badge&logo=halss&logoColor=white">
   <img alt="STM32CubeIDE Badge" src="https://img.shields.io/badge/STM32CubeIDE-%23003B75?style=for-the-badge&logo=stm32cube&logoColor=white">
 
 </p>
