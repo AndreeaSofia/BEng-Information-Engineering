@@ -3,6 +3,19 @@
 - This README provides a detailed outline of the topics covered in the **Probability Theory and Statistics** course during the third semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
 - This course covers key topics in **Probability Theory and Statistics**, including **Fundamental Concepts of Probability** (experiments, events, probability axioms, and classical definitions), **Conditional Probability**, **Classical Probabilistic Models**, **Discrete and Continuous Probability Distributions**, **Numerical Characteristics of Random Variables** (expectation, variance, moments, covariance, correlation), **Stochastic Processes** (including Markov chains), **Descriptive Statistics** (data collection, graphical data representation, measures of central tendency and variation, correlation, regression), **Sample Theory**, **Estimation Theory**, **Hypothesis Testing**, and **Advanced Topics in Statistical Inference**.
 
+## Languages. Frameworks. Software tools
+
+- This course required the use of the following software tools, languages, and/or frameworks:
+
+<div align="center">
+  
+<p>
+  <img alt="MATLAB Badge" src="https://img.shields.io/badge/MATLAB-%23F1A73C?style=for-the-badge&logo=matlab&logoColor=white">
+  <img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+</p>
+  
+</div>
+
 ## Weekly Topics
 
 **Week 1:** 
