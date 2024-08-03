@@ -3,6 +3,10 @@
 - This README provides a detailed outline of the topics covered in the **Computer Aided Graphics 1** course during the first semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
 - The first semester of this course covers key topics in how to utilize **AutoCAD**, including **Interface Navigation and Basic Drawing** (AutoCAD environment, basic objects, measurements), **Drawing Organization and Modification** (layers, object properties, modifying objects), **Advanced Drawing Techniques** (layouts, viewports, annotation, dimensioning, hatching), and **3D Modelling** (introduction to 3D, creating solids and composite solids).
 
+## Languages. Frameworks. Tools
+
+<img alt="Static Badge" src="https://img.shields.io/badge/AutoCAD-%23E51050?style=for-the-badge&logo=autocad&logoColor=white">
+
 ## Weekly Topics
 
 **Week 1:** 
