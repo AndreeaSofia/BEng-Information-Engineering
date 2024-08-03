@@ -3,6 +3,19 @@
 - This README provides a detailed outline of the topics covered in the **Computer Aided Graphics 2** course during the second semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
 - The second semester of this course covers key topics in how to utilize **SolidWorks**, including **Interface Navigation**, **Sketching** and **Reference Geometry**, **Part Modeling Techniques** (extrusion, revolution, sweep, loft, patterns), **Assembly Modeling** (constraints, configurations, exploded views), and **Technical Drawings** (standardized views, sectional views, dimensioning, annotations).
 
+## Languages. Frameworks. Software tools
+
+- This course required the use of the following software tools, languages, and/or frameworks:
+
+<div align="center">
+  
+<p>
+<img alt="SolidWorks Badge" src="https://img.shields.io/badge/SolidWorks-%23E2231A?style=for-the-badge&logo=solidworks&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/MicrosoftTeams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+</p>
+  
+</div>
+
 ## Weekly Topics
 
 **Week 1:** 
