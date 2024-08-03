@@ -3,6 +3,20 @@
 - This README provides a detailed outline of the topics covered in the **Computer Systems Architecture** course during the third semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
 - This course covers key topics in **Computer Systems Architecture**, including **Data Representation**, **80x86 Microprocessor Architecture**, **Assembly Language Programming** (basic elements, specific instructions, conversions, segment definitions, overflow analysis, string operations, multi-module programming), and **System-Level Programming** (input/output function calls, text file processing).
 
+## Languages. Frameworks. Software tools
+
+- This course required the use of the following software tools, languages, and/or frameworks:
+
+<div align="center">
+  
+<p>
+<img alt="Assembly Language Badge" src="https://img.shields.io/badge/Assembly Language-%232C3E50?style=for-the-badge&logo=assembly&logoColor=white">
+<img alt="C Badge" src="https://img.shields.io/badge/Programming Language-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+</p>
+  
+</div>
+
 ## Weekly Topics
 
 **Week 1:** 
