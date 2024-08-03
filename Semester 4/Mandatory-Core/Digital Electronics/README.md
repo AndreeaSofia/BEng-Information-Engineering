@@ -3,6 +3,18 @@
 - This README provides a detailed outline of the topics covered in the **Digital Electronics** course during the fourth semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
 - This course covers key topics concerning **Digital Electronics**, including **Introduction to Digital Electronics** (number systems and codes, digital electronic signals and switches, basic logic gates), **Combinatorial Logic** (Boolean algebra and reduction techniques, arithmetic operations and circuits, data control structures), **Logic Design and Flip-Flops** (logic families, various types of flip-flops and registers), **Sequential Logic and Timers** (counter circuits, shift registers, multivibrators, and timers), and **Real-World Interfacing** (analog-to-digital, digital-to-analog, signals and signal conditioning).
 
+## Languages. Frameworks. Software tools
+
+- This course required the use of the following software tools, languages, and/or frameworks:
+
+<div align="center">
+  
+<p>
+  <img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+</p>
+
+</div>
+
 ## Weekly Topics
 
 **Weeks 1-2:** 
