@@ -7,9 +7,14 @@
 
 - This course required the use of the following software tools, languages, and/or frameworks:
 
-<img alt="Static Badge" src="https://img.shields.io/badge/AutoCAD-%23E51050?style=for-the-badge&logo=autocad&logoColor=white"> - For computer-aided design and drafting.  
-<img alt="Static Badge" src="https://img.shields.io/badge/MicrosoftTeams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"> - Used for communication with instructors and access to graded homework and other course materials, etc.  
-
+<div align="center">
+  
+<p>
+<img alt="Static Badge" src="https://img.shields.io/badge/AutoCAD-%23E51050?style=for-the-badge&logo=autocad&logoColor=white"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/MicrosoftTeams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+</p>
+  
+</div>
 
 ## Weekly Topics
 
