@@ -3,6 +3,18 @@
 - This README provides a detailed outline of the topics covered in the **Linear Algebra, Analytical and Differential Geometry 2** course during the second semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
 - The second semester of this course covers key topics in **Analytical and Differential Geometry**, including **Affine Geometry** (geometric vectors, vector space structure, Cartesian coordinate frames, affine subspaces), **Euclidean Geometry** (scalar product, Gram matrix, orthonormal frames, Gram-Schmidt process, spectral theorem), **Orientation and Transformations** (box product, cross product, projections, reflections, isometries), **Quadratic Forms** (ellipse, hyperbola, parabola, canonical equations, classification of quadrics, quadratic surfaces), **Curvature** (curvature of curves and surfaces), and **Quaternions** (algebraic description, rotations).
 
+## Languages. Frameworks. Software tools
+
+- This course required the use of the following software tools, languages, and/or frameworks:
+
+<div align="center">
+  
+<p>
+<img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+</p>
+  
+</div>
+
 ## Weekly Topics
 
 **Weeks 1-2:** 
