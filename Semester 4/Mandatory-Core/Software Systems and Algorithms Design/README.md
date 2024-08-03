@@ -58,7 +58,7 @@
 - Web security.
 
 **Week 14:**
-- NoSql databases.
+- NOSQL databases.
 
 ## How to Navigate This Course
 
