@@ -3,6 +3,18 @@
 - This README provides a detailed outline of the topics covered in the **Physics** course during the first semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
 - This course covers key topics from **Classical Mechanics** (kinematics, dynamics, energy principles, statics), **Electromagnetism** (electrostatics, electric circuits, magnetic fields, semiconductor physics), and **Optics** (light behavior and imaging).
 
+## Languages. Frameworks. Software tools
+
+- This course required the use of the following software tools, languages, and/or frameworks:
+
+<div align="center">
+  
+<p>
+<img alt="Static Badge" src="https://img.shields.io/badge/MicrosoftTeams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+</p>
+  
+</div>
+
 ## Weekly Topics
 
 **Week 1:** 
