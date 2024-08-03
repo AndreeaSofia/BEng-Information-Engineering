@@ -3,6 +3,24 @@
 - This README provides a detailed outline of the topics covered in the **Programming Paradigms** course during the third semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
 - This course, based on **Java** and **C#** curricula, covers key topics spanning diverse **Programming Paradigms**, including an introduction to **Java Platform and Syntax**, **Collections and Generic Types**, **IO Operations**, **Functional Programming**, **GUI Development with JavaFX**, **Concurrency** (threads, executors, futures), **XML Processing**, **Metaprogramming** (reflection, serialization), and an **Introduction to C# and .Net**, including **Collections**, **IO Operations**, **GUI Development**, and **LINQ**.
 
+## Languages. Frameworks. Software tools
+
+- This course required the use of the following software tools, languages, and/or frameworks:
+
+<div align="center">
+  
+<p>
+  <img alt=".Net Badge" src="https://img.shields.io/badge/.Net Framework-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img alt="Csharp Badge" src="https://img.shields.io/badge/C%23%20Programming%20Language-%2368217A?style=for-the-badge&logo=csharp&logoColor=white">
+  <img alt="Java Badge" src="https://img.shields.io/badge/Java Programming Language-%23E86E00?style=for-the-badge&logo=java&logoColor=white">
+  <img alt="JavaFX Framework Badge" src="https://img.shields.io/badge/JavaFX GUI Framework-%235482A3?style=for-the-badge&logo=javafx&logoColor=white">
+  <img alt="LINQ Badge" src="https://img.shields.io/badge/LINQ-%230078D7?style=for-the-badge&logo=linq&logoColor=white">
+  <img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+  <img alt="Extensible Markup Language Badge" src="https://img.shields.io/badge/XML Extensible Markup Language-%23000000?style=for-the-badge&logo=xml&logoColor=white"> 
+</p>
+  
+</div>
+
 ## Weekly Topics
 
 **Week 1:** 
