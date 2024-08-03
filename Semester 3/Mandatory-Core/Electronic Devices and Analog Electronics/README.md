@@ -3,6 +3,18 @@
 - This README provides a detailed outline of the topics covered in the **Electronic Devices and Analog Electronics** course during the third semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
 - This course covers key topics related to **Electronic Devices and Analog Electronics**, including **Semiconductor Diodes** (diode models, Zener diodes, diode applications), **Bipolar Junction Transistors** (transistor fundamentals, configurations, operating point, characteristics, and parameters), **Junction Field-Effect Transistors** (operation, characteristics, biasing, applications), **Two-Transistor Amplifiers** (differential emitter-coupled pairs, amplifier classes, power amplifiers), **Feedback and Oscillator Circuits** (effects of feedback, feedback topologies, feedback amplifiers, oscillators, multivibrators, the 555 timer), and **Operational Amplifiers** (basic op-amp circuits, integrator, differentiator, non-linear op-amp circuits).
 
+## Languages. Frameworks. Software tools
+
+- This course required the use of the following software tools, languages, and/or frameworks:
+
+<div align="center">
+  
+<p>
+  <img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+</p>
+  
+</div>
+
 ## Weekly Topics
 
 **Weeks 1-2:** 
