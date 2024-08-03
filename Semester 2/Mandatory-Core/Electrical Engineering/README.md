@@ -3,6 +3,18 @@
 - This README provides a detailed outline of the topics covered in the **Electrical Engineering** course during the second semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
 - This course covers key topics in **Electrical Engineering**, including **Electrical Circuits** (active and passive elements, resistors, capacitors, coils, Kirchhoff's theorems, three-phase circuits), **Electromagnetic Fields** (notion of electromagnetic fields, electric fields, laws of electromagnetism for electric fields), **Magnetic Fields** (magnetic fields, laws of electromagnetism for magnetic fields), and **Electromagnetic Waves**.
 
+## Languages. Frameworks. Software tools
+
+- This course required the use of the following software tools, languages, and/or frameworks:
+
+<div align="center">
+  
+<p>
+<img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/MicrosoftTeams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+</p>
+  
+</div>
+
 ## Weekly Topics
 
 **Week 1:** 
