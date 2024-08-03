@@ -3,6 +3,23 @@
 - This README provides a detailed outline of the topics covered in the **Design with Microprocessors** course during the fifth semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
 - This course covers key topics relating to **Microprocessor Design**, including an overview of **Embedded Systems**, **ARM Cortex Microcontrollers**, **Internal Structure** of the microcontroller, **Clock System Operation**, **GPIO Peripheral and Driver Development**, **Interrupt System**, **HAL programming**, **DMA unit**, **Timer Usage**, **ADC and DAC Peripherals**, **USART Peripheral**, **I2C Peripheral**, **SPI and I2S Peripherals**, and **CAN Peripheral**.
 
+## Languages. Frameworks. Software tools
+
+- This course required the use of the following software tools, languages, and/or frameworks:
+
+<div align="center">
+  
+<p>
+  <img alt="C Badge" src="https://img.shields.io/badge/Programming Language-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="C++ Badge" src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img alt="Cube MX Badge" src="https://img.shields.io/badge/Cube MX-%2303234B?style=for-the-badge&logo=cubemx&logoColor=white">
+  <img alt="CubeProgrammer Badge" src="https://img.shields.io/badge/CubeProgrammer-%230080FF?style=for-the-badge&logo=cubeprogrammer&logoColor=white">
+  <img alt="STM32CubeIDE Badge" src="https://img.shields.io/badge/STM32CubeIDE-%23003B75?style=for-the-badge&logo=stm32cube&logoColor=white">
+
+</p>
+  
+</div>
+
 ## Weekly Topics
 
 **Week 1:** 
