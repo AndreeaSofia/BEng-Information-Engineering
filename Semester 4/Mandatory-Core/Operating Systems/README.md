@@ -3,6 +3,21 @@
 - This README provides a detailed outline of the topics covered in the **Operating Systems** course during the fourth semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
 - This course covers key topics related to **Operating Systems**, including **Unix OS: External Interfaces** (general structure of an OS, regular expressions, filters, Unix shells, shell programming, directory structures, symbolic and hard links), **Unix Operating System** (system calls, internal structures, file and process management, I/O operations, process management systems, inter-process communication, POSIX threads), **Filesystems** (disk and file system management, planning disk access, internal structures of various file systems including DOS FAT, Windows NT & 2000 NTFS, Unix i-node mechanism), and **General Theory of Operating Systems** (types of computers and OS classifications, I/O channels, multiprogramming, general OS structure and functions, process concepts and scheduling, memory management, and internal-external memory exchange planning).
 
+## Languages. Frameworks. Software tools
+
+- This course required the use of the following software tools, languages, and/or frameworks:
+
+<div align="center">
+  
+<p>
+  <img alt="C Badge" src="https://img.shields.io/badge/Programming Language-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+  <img alt="Shell Scripting Badge" src="https://img.shields.io/badge/Shell Scripting Language-%234EAA25?style=for-the-badge&logo=shellscript&logoColor=white">
+  <img alt="UNIX Badge" src="https://img.shields.io/badge/UNIX-%23075AB4?style=for-the-badge&logo=unix&logoColor=white">
+</p>
+
+</div>
+
 ## Weekly Topics
 
 **Weeks 1-3:** 
