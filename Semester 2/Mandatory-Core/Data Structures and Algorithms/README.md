@@ -10,9 +10,9 @@
 <div align="center">
   
 <p>
-<img alt="C++ Badge" src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
-<img alt="Microsoft Visual Studio Badge" src="https://img.shields.io/badge/Microsoft Visual Studio-%2368217A?style=for-the-badge&logo=microsoftvisualstudio&logoColor=white">
+  <img alt="C++ Badge" src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+  <img alt="Microsoft Visual Studio Badge" src="https://img.shields.io/badge/Microsoft Visual Studio-%2368217A?style=for-the-badge&logo=microsoftvisualstudio&logoColor=white">
 </p>
   
 </div>
