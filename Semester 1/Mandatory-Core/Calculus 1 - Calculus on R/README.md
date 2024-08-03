@@ -3,9 +3,11 @@
 - This README provides a detailed outline of the topics covered in the **Calculus 1 - Calculus on R** course during the first semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
 - The first semester of this course covers key topics from **Real Analysis** (real numbers, sequences, series, limits, continuous functions), **Differential Calculus** (differentiation, mean value theorems, higher order derivatives, Taylor's theorem), and **Integral Calculus** (Riemann integral, primitives, improper integrals, Riemann-Stieltjes integral).
 
-## Languages. Frameworks. Tools
+## Languages. Frameworks. Software tools
 
-- This course does not utilize any specific programming languages, frameworks, or tools.
+- This course required the use of the following software tools, languages, and/or frameworks:
+
+<img alt="Static Badge" src="https://img.shields.io/badge/MicrosoftTeams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"> - Used for communication with instructors and access to graded homework and other course materials, etc.
 
 ## Weekly Topics
 
