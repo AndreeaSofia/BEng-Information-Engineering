@@ -11,7 +11,7 @@
 <div align="center">
   
 <p>
-<img alt="Static Badge" src="https://img.shields.io/badge/C programming Language-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white">  
+<img alt="Static Badge" src="https://img.shields.io/badge/Programming Language-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white">  
 <img alt="Static Badge" src="https://img.shields.io/badge/MicrosoftTeams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
 </p>
   
