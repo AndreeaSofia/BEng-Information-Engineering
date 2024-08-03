@@ -3,6 +3,18 @@
 - This README provides a detailed outline of the topics covered in the **Linear Algebra, Analytical and Differential Geometry 1** course during the first semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
 - The first semester of this course covers key topics in **Linear Algebra**, including **Algebraic Structures** (groups, rings, fields), **Matrix Theory** (matrix rings, determinants, rank and inverse of matrices, systems of linear equations, elementary matrix operations), **Vector Spaces** (vector spaces, subspaces, linear maps, linear independence, bases, dimension, exchange theorem), **Eigenvalues and Eigenvectors** (eigenvalues, eigenvectors, diagonalizable matrices, Hamilton-Cayley theorem), and **Bilinear and Quadratic Forms**.
 
+## Languages. Frameworks. Software tools
+
+- This course required the use of the following software tools, languages, and/or frameworks:
+
+<div align="center">
+  
+<p>
+<img alt="Static Badge" src="https://img.shields.io/badge/MicrosoftTeams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+</p>
+  
+</div>
+
 ## Weekly Topics
 
 **Week 1:** 
