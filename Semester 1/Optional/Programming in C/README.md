@@ -4,6 +4,19 @@
 - This README provides a detailed outline of the topics covered in the **Programming in C** course during the first semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
 - This course, based on a **C** curriculum, covers key topics in **C programming**, including an **Introduction to C** (data types, operators, expressions, IO operations), **Control Structures** (if, switch, loops), **Data Structures** (arrays, structures, unions, strings, bit fields), **Standard C IO Library** (file operations), **Pointers** (definition, dynamic memory, pointer arithmetic), defining **User Functions** (prototypes, parameter transmission, recursion), and **Memory Management** with the C preprocessor (memory classes, preprocessor directives).
 
+## Languages. Frameworks. Software tools
+
+- This course required the use of the following software tools, languages, and/or frameworks:
+
+<div align="center">
+  
+<p>
+<img alt="Static Badge" src="https://img.shields.io/badge/C programming Language-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white">  
+<img alt="Static Badge" src="https://img.shields.io/badge/MicrosoftTeams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+</p>
+  
+</div>
+
 ## Weekly Topics
 
 **Weeks 1-2:** 
