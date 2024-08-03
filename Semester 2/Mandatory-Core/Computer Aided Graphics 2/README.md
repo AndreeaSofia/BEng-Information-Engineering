@@ -11,7 +11,7 @@
   
 <p>
 <img alt="SolidWorks Badge" src="https://img.shields.io/badge/SolidWorks-%23E2231A?style=for-the-badge&logo=solidworks&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/MicrosoftTeams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+<img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/MicrosoftTeams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
 </p>
   
 </div>
