@@ -10,7 +10,7 @@
 <div align="center">
   
 <p>
-<img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+  <img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
 </p>
   
 </div>
