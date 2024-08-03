@@ -3,6 +3,20 @@
 - This README provides a detailed outline of the topics covered in the **Databases 2** course during the fourth semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
 - The second semester of this course covers key topics concerning **Advanced Database Systems**, including **Transactions and Concurrency Control**, **Database Recovery**, **Database Security**, **Query Evaluation and Optimization** (evaluating relational operators, query optimization), **Distributed Databases**, **Parallel Databases**, and **Data Stream Processing**.
 
+## Languages. Frameworks. Software tools
+
+- This course required the use of the following software tools, languages, and/or frameworks:
+
+<div align="center">
+  
+<p>
+  <img alt="ADO.NET Badge" src="https://img.shields.io/badge/ADO.NET-%23003B73?style=for-the-badge&logo=adonet&logoColor=white">
+  <img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+  <img alt="Structured Query Language Badge" src="https://img.shields.io/badge/Structured Query Language-%23F29111?style=for-the-badge&logo=sql&logoColor=white">
+</p>
+
+</div>
+
 ## Weekly Topics
 
 **Weeks 1-3:** 
