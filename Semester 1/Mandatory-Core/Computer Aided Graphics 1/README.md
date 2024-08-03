@@ -11,7 +11,7 @@
   
 <p>
 <img alt="AutoCad Badge" src="https://img.shields.io/badge/AutoCAD-%23E51050?style=for-the-badge&logo=autocad&logoColor=white"> 
-<img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/MicrosoftTeams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+<img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
 </p>
   
 </div>
