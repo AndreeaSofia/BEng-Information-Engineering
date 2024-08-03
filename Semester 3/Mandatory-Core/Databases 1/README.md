@@ -10,10 +10,10 @@
 <div align="center">
   
 <p>
-<img alt="Microsoft SQL Server Badge" src="https://img.shields.io/badge/Microsoft SQL Server-%23C6171D?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-<img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
-<img alt="Microsoft Visual Studio Badge" src="https://img.shields.io/badge/Microsoft Visual Studio-%2368217A?style=for-the-badge&logo=microsoftvisualstudio&logoColor=white">
-<img alt="Structured Query Language Badge" src="https://img.shields.io/badge/Structured Query Language-%23F29111?style=for-the-badge&logo=sql&logoColor=white">
+  <img alt="Microsoft SQL Server Badge" src="https://img.shields.io/badge/Microsoft SQL Server-%23C6171D?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+  <img alt="Microsoft Visual Studio Badge" src="https://img.shields.io/badge/Microsoft Visual Studio-%2368217A?style=for-the-badge&logo=microsoftvisualstudio&logoColor=white">
+  <img alt="Structured Query Language Badge" src="https://img.shields.io/badge/Structured Query Language-%23F29111?style=for-the-badge&logo=sql&logoColor=white">
 </p>
   
 </div>
