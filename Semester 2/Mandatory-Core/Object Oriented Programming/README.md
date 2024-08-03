@@ -3,6 +3,22 @@
 - This README provides a detailed outline of the topics covered in the **Object Oriented Programming** course during the second semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
 - This course, based on **C** and **C++** curricula, covers key topics related to **Object Oriented Programming**, including an **Introduction to C/C++**, **Modular Programming** in C/C++, **Object-Oriented Programming** (object-oriented programming features, abstraction, encapsulation, classes and objects, access modifiers, operator overloading, static and friend elements), **Inheritance and Polymorphism** (base and derived classes, Liskov substitution principle, method overriding, static and dynamic binding, UML class diagrams), **Templates in C++** and the **C++ Standard Template Library**, **Streams and Exception Handling**, **Resource Management and RAII** (smart pointers, move semantics), **Graphical User Interfaces** (Qt Toolkit, Qt GUI components, layout management), **Event-Driven Programming** (callbacks, events, signals, and slots in Qt, MVC pattern), and **Design Patterns** (creational, structural, behavioral patterns).
 
+## Languages. Frameworks. Software tools
+
+- This course required the use of the following software tools, languages, and/or frameworks:
+
+<div align="center">
+  
+<p>
+<img alt="C Badge" src="https://img.shields.io/badge/Programming Language-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<img alt="C++ Badge" src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+<img alt="Qt GUI Framework Badge" src="https://img.shields.io/badge/Qt GUI Framework-%2341CD52?style=for-the-badge&logo=qt&logoColor=white">
+<img alt="UML Badge" src="https://img.shields.io/badge/Unified Modeling Language-%23FABD14?style=for-the-badge&logo=uml&logoColor=white">
+</p>
+  
+</div>
+
 ## Weekly Topics
 
 **Week 1:** 
