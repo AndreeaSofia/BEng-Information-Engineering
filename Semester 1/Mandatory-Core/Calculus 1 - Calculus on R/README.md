@@ -1,7 +1,7 @@
 # Course Overview
 
 - This README provides a detailed outline of the topics covered in the **Calculus 1 - Calculus on R** course during the first semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
-- The first semester of this course covers key topics from **Real Analysis** (real numbers, sequences, series, limits, continuous functions), **Differential Calculus** (differentiation, mean value theorems, higher order derivatives, Taylor's theorem), and **Integral Calculus** (Riemann integral, primitives, improper integrals, Riemann-Stieltjes integral).
+- The first semester of this course covers key topics from **Real Analysis** (real numbers, sequences, series, limits, continuous functions), **Differential Calculus** (differentiation, mean value theorems, higher order derivatives, Taylor's theorem), and **Integral Calculus** (Riemann integral, primitives, improper integrals, Riemann-Stieltjes integral), and more.
 
 ## Languages. Frameworks. Software tools
 
@@ -69,8 +69,8 @@
 
 Each course directory contains the following subfolders:
 
-- **Courses**: Course notes and suggested bibliography.
-- **Seminaries**: Seminary work and suggested bibliography.
-- **Laboratories**: Lab work and related materials.
-- **ExamPrep**: Exam papers, preparation materials/examples, and grade specifications (including a breakdown of weights for different parts of the final grade, such as course participation, oral exams, seminar activities, laboratory work, projects, etc.).
-- **ExtraResources**: Additional exercises and work I did for certain chapters, along with personal tips and tricks, including tools, references, or books that helped me improve my understanding and performance in the subject. These are my own experiences and may not necessarily be useful for others, and were not required or endorsed by the course instructors.
+1. **Courses**: Course notes and suggested bibliography.
+2. **Seminaries**: Seminary work and suggested bibliography.
+3. **Laboratories**: Lab work and related materials.
+4. **ExamPrep**: Exam papers, preparation materials/examples, and grade specifications (including a breakdown of weights for different parts of the final grade, such as course participation, practical exams, seminar activities, laboratory work, projects, etc.).
+5. **ExtraResources**: Additional exercises and work I did for certain chapters, along with personal tips and tricks, including tools, references, or books that helped me improve my understanding and performance in the subject. These are my own experiences and may not necessarily be useful for others, and were not required or endorsed by the course instructors.
