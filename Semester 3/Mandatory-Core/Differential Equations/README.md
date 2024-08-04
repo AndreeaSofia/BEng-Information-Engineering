@@ -10,8 +10,8 @@
 <div align="center">
   
 <p>
-   <img alt="Python Badge" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+  <img alt="Python Badge" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="Sage Math Badge" src="https://img.shields.io/badge/SageMath-%231A19B5?style=for-the-badge&logo=sagemath&logoColor=white">
 </p>
   
