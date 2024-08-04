@@ -1,7 +1,7 @@
 # Course Overview
 
 - This README provides a detailed outline of the topics covered in the **Calculus 2 - Differential and Integral Calculus in R^n** course during the second semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
-- The second semester of this course covers key topics in **Multivariable Calculus**, including **Topology and Sequences in R^n** (Euclidean space, topological structure, convergent and Cauchy sequences), **Multivariable Functions** (limits of vector functions, continuity, Weierstrass theorem, Frechet differentiability, partial derivatives, chain rule, mean value theorems, Lagrange multipliers, Taylor's formula), **Multiple Integration** (Riemann integrals on compact and bounded sets, iterated integrals, Fubini theorem, change of variables, vector functions of bounded variation, line integrals, differential forms), and **Vector Calculus** (mechanical work, surface integrals, Stokes' theorem, Gauss-Ostrogradski formula).
+- The second semester of this course covers key topics in **Multivariable Calculus**, including **Topology and Sequences in R^n** (Euclidean space, topological structure, convergent and Cauchy sequences), **Multivariable Functions** (limits of vector functions, continuity, Weierstrass theorem, Frechet differentiability, partial derivatives, chain rule, mean value theorems, Lagrange multipliers, Taylor's formula), **Multiple Integration** (Riemann integrals on compact and bounded sets, iterated integrals, Fubini theorem, change of variables, vector functions of bounded variation, line integrals, differential forms), **Vector Calculus** (mechanical work, surface integrals, Stokes' theorem, Gauss-Ostrogradski formula), and more.
 
 ## Languages. Frameworks. Software tools
 
@@ -87,9 +87,7 @@ R^n by means of iterated integrals (the Fubini theorem).
 Each course directory contains the following subfolders:
 
 - **Courses**: Course notes and suggested bibliography.
-- **Seminaries**: Seminary work and suggested bibliography.
+-  **Seminaries**: Seminary work and suggested bibliography.
 - **Laboratories**: Lab work and related materials.
-- **ExamPrep**: Exam papers, preparation materials/examples, and grade specifications (including a breakdown of weights for different parts of the final grade, such as course participation, oral exams, seminar activities, laboratory work, projects, etc.).
+- **ExamPrep**: Exam papers, preparation materials/examples, and grade specifications (including a breakdown of weights for different parts of the final grade, such as course participation, practical exams, seminar activities, laboratory work, projects, etc.).
 - **ExtraResources**: Additional exercises and work I did for certain chapters, along with personal tips and tricks, including tools, references, or books that helped me improve my understanding and performance in the subject. These are my own experiences and may not necessarily be useful for others, and were not required or endorsed by the course instructors.
-
-
