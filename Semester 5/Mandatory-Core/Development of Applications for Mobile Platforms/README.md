@@ -16,6 +16,7 @@
   <img alt="Flutter Badge" src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img alt="Java Badge" src="https://img.shields.io/badge/Java Programming Language-%23E86E00?style=for-the-badge&logo=java&logoColor=white">
   <img alt="JUnit Badge" src="https://img.shields.io/badge/JUnit-%2325A162?style=for-the-badge&logo=junit&logoColor=white">
+  <img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%23626EAF?style=for-the-badge&logo=microsoftteams&logoColor=white">
   <img alt="Mockito Badge" src="https://img.shields.io/badge/Mockito-%238BC34A?style=for-the-badge&logo=mockito&logoColor=white">
   <img alt="React Native Badge" src="https://img.shields.io/badge/React Native-%23003B75?style=for-the-badge&logo=reactnative&logoColor=white">
   <img alt="Realm (DB) Badge" src="https://img.shields.io/badge/Realm-%2339477F?style=for-the-badge&logo=realm&logoColor=white">
