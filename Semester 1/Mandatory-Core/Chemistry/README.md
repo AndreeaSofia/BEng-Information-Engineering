@@ -1,7 +1,7 @@
 # Course Overview
 
 - This README provides a detailed outline of the topics covered in the **Chemistry** course during the first semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
-- This course covers key topics in **General Chemistry** (introduction to chemistry, atomic structure, electron configuration, chemical bonding, physical interactions, classification of elements and compounds) and **Inorganic Chemistry** (inorganic compounds, oxides, bases, salts, acids, and chemical reactions including stoichiometry, acid-base reactions, and redox reactions), and more.
+- This course covers key topics in **General Chemistry** (introduction to chemistry, atomic structure, electron configuration, chemical bonding, physical interactions, classification of elements and compounds), **Inorganic Chemistry** (inorganic compounds, oxides, bases, salts, acids, and chemical reactions including stoichiometry, acid-base reactions, and redox reactions), and more.
 
 ## Languages. Frameworks. Software tools
 
