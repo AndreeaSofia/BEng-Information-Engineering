@@ -1,7 +1,7 @@
 # Course Overview
 
 - This README provides a detailed outline of the topics covered in the **Functional and Logic Programming** course during the fifth semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
-- This course covers key topics in **Logic Programming** (basic elements of Prolog, control strategy, variables, predicates, backtracking, recursive data structures, internal database management), **Prolog Programming** (predefined domains, predicates, compiler directives, arithmetic expressions, input/output operations, optimization techniques), and **Functional Programming** (introduction to functional programming, elements of LISP, dynamic data structures, predicates, logic and arithmetic functions, symbol management, functional forms, iterative and MAP functions, data structures, macro-definitions).
+- This course covers key topics in **Logic Programming** (basic elements of Prolog, control strategy, variables, predicates, backtracking, recursive data structures, internal database management), **Prolog Programming** (predefined domains, predicates, compiler directives, arithmetic expressions, input/output operations, optimization techniques), **Functional Programming** (introduction to functional programming, elements of LISP, dynamic data structures, predicates, logic and arithmetic functions, symbol management, functional forms, iterative and MAP functions, data structures, macro-definitions), and more.
 
 ## Languages. Frameworks. Software tools
 
@@ -114,5 +114,5 @@ Each course directory contains the following subfolders:
 - **Courses**: Course notes and suggested bibliography.
 - **Seminaries**: Seminary work and suggested bibliography.
 - **Laboratories**: Lab work and related materials.
-- **ExamPrep**: Exam papers, preparation materials/examples, and grade specifications (including a breakdown of weights for different parts of the final grade, such as course participation, oral exams, seminar activities, laboratory work, projects, etc.).
+- **ExamPrep**: Exam papers, preparation materials/examples, and grade specifications (including a breakdown of weights for different parts of the final grade, such as course participation, practical exams, seminar activities, laboratory work, projects, etc.).
 - **ExtraResources**: Additional exercises and work I did for certain chapters, along with personal tips and tricks, including tools, references, or books that helped me improve my understanding and performance in the subject. These are my own experiences and may not necessarily be useful for others, and were not required or endorsed by the course instructors.
