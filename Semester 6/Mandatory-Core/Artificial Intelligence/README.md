@@ -1,7 +1,7 @@
 # Course Overview
 
 - This README provides a detailed outline of the topics covered in the **Artificial Intelligence** course during the sixth semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
-- This course covers key topics in 
+- This course covers key topics concerning **Artificial Intelligence**, including the **Historical Evolution of AI**, **Supervised Machine Learning** (classification and regression with Perceptrons and Artificial Neural Networks), **Clustering** and **Dimensionality Reduction** (KNN, K-means, SOM, PCA), **Training** and **Evaluating** machine learning models, **Advanced Search Algorithms** (backtracking, DFS, BFS, A*, GAs, ACO), **Constraint Satisfaction Problems**, **Reinforcement Learning**, **Game Theory**, **Deep Neural Networks** (CNNs, RNNs), and **Real-World AI Applications** (computational challenges, intelligent IoT, robotics, autonomous driving) with a focus on **Ethical Considerations**.
 
 ## Languages. Frameworks. Software tools
 
