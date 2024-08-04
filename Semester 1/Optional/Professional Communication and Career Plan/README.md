@@ -2,7 +2,7 @@
 # Course Overview
 
 - This README provides a detailed outline of the topics covered in the **Professional Communication and Career Plan** course during the first semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
-- This course covers key topics in **Professional Development**, including an introduction to the faculty and academic plans, various **Forms of Communication** (technical, written, verbal, visual), **Career Preparation** (creating a CV, preparing for interviews), insights into the computer science domain and the organization of **Software Companies** (technical and hierarchical), and guidance on building a **Research Career**, supplemented by invited **Lectures from Industry Professionals**.
+- This course covers key topics in **Professional Development**, including an introduction to the faculty and academic plans, various **Forms of Communication** (technical, written, verbal, visual), **Career Preparation** (creating a CV, preparing for interviews), insights into the computer science domain and the organization of **Software Companies** (technical and hierarchical), guidance on building a **Research Career**, supplemented by invited **Lectures from Industry Professionals**, and more.
 
 ## Languages. Frameworks. Software tools
 
@@ -67,7 +67,7 @@
 Each course directory contains the following subfolders:
 
 - **Courses**: Course notes and suggested bibliography.
-- **Seminaries**: Seminary work and suggested bibliography.
+-  **Seminaries**: Seminary work and suggested bibliography.
 - **Laboratories**: Lab work and related materials.
-- **ExamPrep**: Exam papers, preparation materials/examples, and grade specifications (including a breakdown of weights for different parts of the final grade, such as course participation, oral exams, seminar activities, laboratory work, projects, etc.).
+- **ExamPrep**: Exam papers, preparation materials/examples, and grade specifications (including a breakdown of weights for different parts of the final grade, such as course participation, practical exams, seminar activities, laboratory work, projects, etc.).
 - **ExtraResources**: Additional exercises and work I did for certain chapters, along with personal tips and tricks, including tools, references, or books that helped me improve my understanding and performance in the subject. These are my own experiences and may not necessarily be useful for others, and were not required or endorsed by the course instructors.
