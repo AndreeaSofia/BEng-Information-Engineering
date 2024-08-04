@@ -10,8 +10,9 @@
 <div align="center">
   
 <p>
-  <img alt="PROLOG Badge" src="https://img.shields.io/badge/PROLOG-%2374283C?style=for-the-badge&logo=prolog&logoColor=white"> 
   <img alt="Lisp Badge" src="https://img.shields.io/badge/Lisp-%23E34C26?style=for-the-badge&logo=lisp&logoColor=white">
+  <img alt="PROLOG Badge" src="https://img.shields.io/badge/PROLOG-%2374283C?style=for-the-badge&logo=prolog&logoColor=white"> 
+  <img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%23626EAF?style=for-the-badge&logo=microsoftteams&logoColor=white">
 </p>
   
 </div>
