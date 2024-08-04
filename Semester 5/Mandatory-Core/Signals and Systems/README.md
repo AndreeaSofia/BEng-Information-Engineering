@@ -1,7 +1,7 @@
 # Course Overview
 
 - This README provides a detailed outline of the topics covered in the **Signals and Systems** course during the fifth semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
-- This course covers key topics concerning **Signal Processing** (definitions and properties of continuous and discrete signals, including sinusoidal, unit stage, pulse, ramp, exponential, and complex signals; transformations such as scaling, reflecting, and moving signals), **System Analysis** (analog and digital systems, features of analog-to-digital converters, modeling systems, linear and incremental systems, time-invariant systems, stability, and causality), and **Convolution** (properties and applications of convolution in discrete time, LTIS analysis, and impulse response of systems).
+- This course covers key topics concerning **Signal Processing** (definitions and properties of continuous and discrete signals, including sinusoidal, unit stage, pulse, ramp, exponential, and complex signals; transformations such as scaling, reflecting, and moving signals), **System Analysis** (analog and digital systems, features of analog-to-digital converters, modeling systems, linear and incremental systems, time-invariant systems, stability, and causality), **Convolution** (properties and applications of convolution in discrete time, LTIS analysis, and impulse response of systems), and more.
 
 ## Languages. Frameworks. Software tools
 
@@ -79,6 +79,5 @@ Each course directory contains the following subfolders:
 - **Courses**: Course notes and suggested bibliography.
 - **Seminaries**: Seminary work and suggested bibliography.
 - **Laboratories**: Lab work and related materials.
-- **ExamPrep**: Exam papers, preparation materials/examples, and grade specifications (including a breakdown of weights for different parts of the final grade, such as course participation, oral exams, seminar activities, laboratory work, projects, etc.).
+- **ExamPrep**: Exam papers, preparation materials/examples, and grade specifications (including a breakdown of weights for different parts of the final grade, such as course participation, practical exams, seminar activities, laboratory work, projects, etc.).
 - **ExtraResources**: Additional exercises and work I did for certain chapters, along with personal tips and tricks, including tools, references, or books that helped me improve my understanding and performance in the subject. These are my own experiences and may not necessarily be useful for others, and were not required or endorsed by the course instructors.
-
