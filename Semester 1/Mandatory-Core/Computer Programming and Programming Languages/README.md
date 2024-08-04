@@ -1,7 +1,7 @@
 # Course Overview
 
 - This README provides a detailed outline of the topics covered in the **Computer Programming and Programming Languages** course during the first semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
-- This course, based on a **Python** curriculum, covers key topics in **Software Development** (software development processes, procedural programming, modular programming, software design guidelines), **Object-Oriented Programming** (user-defined types, classes and objects, encapsulation, inheritance), **Program Testing and Inspection** (testing methods, automated testing, TDD), and **Algorithms and Problem-Solving** (recursion, search algorithms, sorting algorithms, problem-solving methods including backtracking, divide and conquer, greedy, and dynamic programming).
+- This course, based on a **Python** curriculum, covers key topics in **Software Development** (software development processes, procedural programming, modular programming, software design guidelines), **Object-Oriented Programming** (user-defined types, classes and objects, encapsulation, inheritance), **Program Testing and Inspection** (testing methods, automated testing, TDD), **Algorithms and Problem-Solving** (recursion, search algorithms, sorting algorithms, problem-solving methods including backtracking, divide and conquer, greedy, and dynamic programming), and more.
 
 ## Languages. Frameworks. Software tools
 
@@ -101,9 +101,7 @@
 Each course directory contains the following subfolders:
 
 - **Courses**: Course notes and suggested bibliography.
-- **Seminaries**: Seminary work and suggested bibliography.
+-  **Seminaries**: Seminary work and suggested bibliography.
 - **Laboratories**: Lab work and related materials.
-- **ExamPrep**: Exam papers, preparation materials/examples, and grade specifications (including a breakdown of weights for different parts of the final grade, such as course participation, oral exams, seminar activities, laboratory work, projects, etc.).
+- **ExamPrep**: Exam papers, preparation materials/examples, and grade specifications (including a breakdown of weights for different parts of the final grade, such as course participation, practical exams, seminar activities, laboratory work, projects, etc.).
 - **ExtraResources**: Additional exercises and work I did for certain chapters, along with personal tips and tricks, including tools, references, or books that helped me improve my understanding and performance in the subject. These are my own experiences and may not necessarily be useful for others, and were not required or endorsed by the course instructors.
-
-
