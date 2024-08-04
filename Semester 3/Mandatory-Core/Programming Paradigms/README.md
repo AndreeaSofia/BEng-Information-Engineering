@@ -1,7 +1,7 @@
 # Course Overview
 
 - This README provides a detailed outline of the topics covered in the **Programming Paradigms** course during the third semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
-- This course, based on **Java** and **C#** curricula, covers key topics spanning diverse **Programming Paradigms**, including an introduction to **Java Platform and Syntax**, **Collections and Generic Types**, **IO Operations**, **Functional Programming**, **GUI Development with JavaFX**, **Concurrency** (threads, executors, futures), **XML Processing**, **Metaprogramming** (reflection, serialization), and an **Introduction to C# and .Net**, including **Collections**, **IO Operations**, **GUI Development**, and **LINQ**.
+- This course, based on **Java** and **C#** curricula, covers key topics spanning diverse **Programming Paradigms**, including an introduction to **Java Platform and Syntax**, **Collections and Generic Types**, **IO Operations**, **Functional Programming**, **GUI Development with JavaFX**, **Concurrency** (threads, executors, futures), **XML Processing**, **Metaprogramming** (reflection, serialization), and an **Introduction to C# and .Net**, including **Collections**, **IO Operations**, **GUI Development**, **LINQ**, and more.
 
 ## Languages. Frameworks. Software tools
 
@@ -73,5 +73,5 @@ Each course directory contains the following subfolders:
 - **Courses**: Course notes and suggested bibliography.
 - **Seminaries**: Seminary work and suggested bibliography.
 - **Laboratories**: Lab work and related materials.
-- **ExamPrep**: Exam papers, preparation materials/examples, and grade specifications (including a breakdown of weights for different parts of the final grade, such as course participation, oral exams, seminar activities, laboratory work, projects, etc.).
+- **ExamPrep**: Exam papers, preparation materials/examples, and grade specifications (including a breakdown of weights for different parts of the final grade, such as course participation, practical exams, seminar activities, laboratory work, projects, etc.).
 - **ExtraResources**: Additional exercises and work I did for certain chapters, along with personal tips and tricks, including tools, references, or books that helped me improve my understanding and performance in the subject. These are my own experiences and may not necessarily be useful for others, and were not required or endorsed by the course instructors.
