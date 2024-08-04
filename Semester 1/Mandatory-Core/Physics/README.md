@@ -1,7 +1,7 @@
 # Course Overview
 
 - This README provides a detailed outline of the topics covered in the **Physics** course during the first semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
-- This course covers key topics from **Classical Mechanics** (kinematics, dynamics, energy principles, statics), **Electromagnetism** (electrostatics, electric circuits, magnetic fields, semiconductor physics), and **Optics** (light behavior and imaging).
+- This course covers key topics from **Classical Mechanics** (kinematics, dynamics, energy principles, statics), **Electromagnetism** (electrostatics, electric circuits, magnetic fields, semiconductor physics), **Optics** (light behavior and imaging), and more.
 
 ## Languages. Frameworks. Software tools
 
