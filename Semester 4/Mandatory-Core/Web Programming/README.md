@@ -18,7 +18,7 @@
   <img alt="Document Object Model Badge" src="https://img.shields.io/badge/Document Object Model-%23A9703C?style=for-the-badge&logo=dom&logoColor=white"> 
   <img alt="HTML 5 Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img alt="HTTP Protocol Badge" src="https://img.shields.io/badge/HTTP Protocol-%23005A9C?style=for-the-badge&logo=http&logoColor=white"> 
-  <img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
+  <img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-%23E6AC00?style=for-the-badge&logo=javascript&logoColor=white"> 
   <img alt="Java Servlets" src="https://img.shields.io/badge/Java Servlets-%23E51C23?style=for-the-badge&logo=javaservlets&logoColor=white"> 
   <img alt="JSON" src="https://img.shields.io/badge/JSON-%23000000?style=for-the-badge&logo=json&logoColor=white"> 
   <img alt="JSP" src="https://img.shields.io/badge/JSP-%234479A1?style=for-the-badge&logo=jsp&logoColor=white">
