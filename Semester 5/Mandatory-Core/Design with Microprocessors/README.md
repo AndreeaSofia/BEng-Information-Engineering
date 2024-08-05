@@ -10,7 +10,7 @@
 <div align="center">
   
 <p>
-  <img alt="C Badge" src="https://img.shields.io/badge/Programming Language-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="C Badge" src="https://img.shields.io/badge/Programming Language-%238A9BAC?style=for-the-badge&logo=c&logoColor=white">
   <img alt="C++ Badge" src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img alt="Cube MX Badge" src="https://img.shields.io/badge/Cube MX-%2303234B?style=for-the-badge&logo=cubemx&logoColor=white">
   <img alt="CubeProgrammer Badge" src="https://img.shields.io/badge/CubeProgrammer-%230080FF?style=for-the-badge&logo=cubeprogrammer&logoColor=white">
