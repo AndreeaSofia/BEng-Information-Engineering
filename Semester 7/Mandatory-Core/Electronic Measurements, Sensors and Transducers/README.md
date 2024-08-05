@@ -10,6 +10,7 @@
 <div align="center">
   
 <p>
+  <img alt="LabView Badge" src="https://img.shields.io/badge/LabView-%23E6AC00?style=for-the-badge&logo=labview&logoColor=white">
   <img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%23626EAF?style=for-the-badge&logo=microsoftteams&logoColor=white">
 </p>
   
