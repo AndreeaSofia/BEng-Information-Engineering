@@ -11,7 +11,7 @@
   
 <p>
   <img alt="Assembly Language Badge" src="https://img.shields.io/badge/Assembly Language-%232C3E50?style=for-the-badge&logo=assembly&logoColor=white">
-  <img alt="C Badge" src="https://img.shields.io/badge/Programming Language-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="C Badge" src="https://img.shields.io/badge/Programming Language-%238A9BAC?style=for-the-badge&logo=c&logoColor=white">
   <img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
 </p>
   
