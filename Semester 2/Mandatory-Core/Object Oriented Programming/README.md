@@ -14,7 +14,7 @@
   <img alt="C++ Badge" src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
   <img alt="Qt GUI Framework Badge" src="https://img.shields.io/badge/Qt GUI Framework-%2341CD52?style=for-the-badge&logo=qt&logoColor=white">
-  <img alt="UML Badge" src="https://img.shields.io/badge/Unified Modeling Language-%23FABD14?style=for-the-badge&logo=uml&logoColor=white">
+  <img alt="UML Badge" src="https://img.shields.io/badge/Unified Modeling Language-%23E6AC00?style=for-the-badge&logo=uml&logoColor=white">
 </p>
   
 </div>
