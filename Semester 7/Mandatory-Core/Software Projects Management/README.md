@@ -21,7 +21,7 @@
 - Introduction in Agile Methodologies.
 
 **Weeks 2-4:**
-- Scrum – Roles, Ceremonies, Artefacts.
+- Scrum - Roles, Ceremonies, Artefacts.
 
 **Weeks 5-6:**
 - Extreme programming.
