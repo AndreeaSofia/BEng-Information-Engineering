@@ -10,7 +10,7 @@
 <div align="center">
   
 <p>
-  <img alt="C Badge" src="https://img.shields.io/badge/Programming Language-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="C Badge" src="https://img.shields.io/badge/Programming Language-%238A9BAC?style=for-the-badge&logo=c&logoColor=white">
   <img alt="C++ Badge" src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img alt="Microsoft Teams Badge" src="https://img.shields.io/badge/Microsoft Teams-%236264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
   <img alt="Qt GUI Framework Badge" src="https://img.shields.io/badge/Qt GUI Framework-%2341CD52?style=for-the-badge&logo=qt&logoColor=white">
