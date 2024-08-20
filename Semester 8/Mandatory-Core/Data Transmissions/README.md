@@ -1,7 +1,7 @@
 # Course Overview
 
 - This README provides a detailed outline of the topics covered in the **Data Transmissions** course during the eighth semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
-- This course covers key topics concerning **Data Transmissions**, including the **Foundations of Telecommunications** (classification, useful signals, relative and absolute levels), **Telephone Networks** (signal and data transmission, transmission chain), **Transmission Structures** (4-wire, 2-wire, transmission line), **Frequency Multiplexing** (principles, techniques, organization of primary groups), **Time multiplexing and Demultiplexing** (sampling, Pulse Amplitude Modulation), **Pulse Code Modulation** (principles, structure, synchronization, signal frequency band, quantization error, noise signal ratio), and more.
+- This course covers key topics concerning **Data Transmissions**, including the **Foundations of Telecommunications** (classification, useful signals, relative and absolute levels), **Telephone Networks** (signal and data transmission, transmission chain), **Transmission Structures** (4-wire, 2-wire, transmission line), **Frequency Multiplexing** (principles, techniques, organization of primary groups), **Time Multiplexing and Demultiplexing** (sampling, Pulse Amplitude Modulation), **Pulse Code Modulation** (principles, structure, synchronization, signal frequency band, quantization error, noise signal ratio), and more.
 
 ## Languages. Frameworks. Software tools
 
