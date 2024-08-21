@@ -1,7 +1,7 @@
 # Course Overview
 
 - This README provides a detailed outline of the topics covered in the **Design with Microprocessors** course during the fifth semester of my BEng in _Information Engineering_. This outline is designed to facilitate quick identification of relevant weeks for specific topics, especially when engaging with lab work or other course materials.
-- This course covers key topics relating to **Microprocessor Design**, including an overview of **Embedded Systems**, **ARM Cortex Microcontrollers**, **Internal Structure** of the microcontroller, **Clock System Operation**, **GPIO Peripheral and Driver Development**, **Interrupt System**, **HAL programming**, **DMA unit**, **Timer Usage**, **ADC and DAC Peripherals**, **USART Peripheral**, **I2C Peripheral**, **SPI and I2S Peripherals**, **CAN Peripheral**, and more.
+- This course covers key topics related to **Microprocessor Design**, including an overview of **Embedded Systems**, **ARM Cortex Microcontrollers**, **Internal Structure** of the microcontroller, **Clock System Operation**, **GPIO Peripheral and Driver Development**, **Interrupt System**, **HAL programming**, **DMA unit**, **Timer Usage**, **ADC and DAC Peripherals**, **USART Peripheral**, **I2C Peripheral**, **SPI and I2S Peripherals**, **CAN Peripheral**, and more.
 
 ## Languages. Frameworks. Software tools
 
